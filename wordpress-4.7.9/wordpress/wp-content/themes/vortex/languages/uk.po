@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortex 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-14 12:32+0500\n"
+"PO-Revision-Date: 2013-05-23 12:03+0200\n"
+"Last-Translator: AzzePis <blog@wordpress.co.ua>\n"
+"Language-Team: maximaximum <maximaximums@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr\n"
+"X-Poedit-Basepath: E:\\vortex\\\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: uk\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+#, php-format
+msgid ""
+"Just kidding! You tried going to %s, which doesn't exist, so that means I "
+"probably broke something."
+msgstr ""
+"Жартуємо! Ви спробували потрапити на сторінку %s, якої існує, отже, "
+"ймовірно, це ми щось зламали."
+
+#: 404.php:16
+msgid ""
+"The following is a list of the latest posts from the blog. Maybe it will "
+"help you find what you're looking for."
+msgstr ""
+"Це - перелік найостанніших публікацій на блозі. Можливо, він допоможе Вам "
+"знайти те, що Ви шукаєте."
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Ця публікація захищена паролем. Введіть пароль, щоб переглянути коментарі."
+
+#: comments.php:32
+msgid "&larr; Older Comments"
+msgstr "&larr; Старіші коментарі"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Новіші коментарі &rarr;"
+
+#: comments.php:43
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Коментарі відключені."
+
+#: content-search.php:4 content.php:3
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постійне посилання на %s"
+
+#: loop-error.php:2
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: loop-error.php:4
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Даруйте, але ми не знайшли жодного матеріалу, що відповідав би Вашому запиту."
+
+#: loop-meta.php:6
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архіви категорії: %s"
+
+#: loop-meta.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архіви теґу: %s"
+
+#: loop-meta.php:31
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архіви автора: %s"
+
+#: loop-meta.php:42
+#, php-format
+msgid "Search Results: %s"
+msgstr "Результати пошуку: %s"
+
+#: loop-meta.php:43
+#, php-format
+msgid "You are browsing the search results for %s"
+msgstr "Ви переглядаєте результати пошуку %s"
+
+#: loop-meta.php:53
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Архіви за дату: %s"
+
+#: loop-meta.php:54
+msgid "You are browsing the site archives by date."
+msgstr "Ви переглядаєте архіви сайту за датою."
+
+#: loop-meta.php:64
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Архіви за місяць: %s"
+
+#: loop-meta.php:65
+msgid "You are browsing the site archives by month."
+msgstr "Ви переглядаєте архіви сайту за місяць."
+
+#: loop-meta.php:75
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архіви за рік: %s"
+
+#: loop-meta.php:76
+msgid "You are browsing the site archives by year."
+msgstr "Ви переглядаєте архіви сайту за рік."
+
+#: loop-meta.php:86 sidebar.php:31
+msgid "Archives"
+msgstr "Архіви"
+
+#: loop-meta.php:87
+msgid "You are browsing the site archives."
+msgstr "Ви переглядаєте архіви сайту."
+
+#: loop-meta.php:97
+msgid "404"
+msgstr "404"
+
+#: loop-meta.php:98
+msgid "Whoah! You broke something!"
+msgstr "Овва! Ви щось зламали!"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Шукати:"
+
+#: searchform.php:4 searchform.php:5
+msgid "Search"
+msgstr "Пошук"
+
+#: sidebar.php:17
+msgid "Pages"
+msgstr "Сторінки"
+
+#: sidebar.php:24
+msgid "Categories"
+msgstr "Категорії"
+
+#: sidebar.php:38
+msgid "Calendar"
+msgstr "Календар"
+
+#: sidebar.php:45
+msgid "Recent Posts"
+msgstr "Останні публікації"
+
+#: sidebar.php:52
+msgid "Tag Cloud"
+msgstr "Хмаринка теґів"
+
+#: sidebar.php:59
+msgid "About Vortex"
+msgstr "Про Vortex"
+
+#: sidebar.php:60
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: sidebar.php:66
+msgid "Meta"
+msgstr "Мета"
+
+#: lib/admin/admin.php:52 lib/admin/admin.php:53
+msgid "Vortex Options"
+msgstr "Налаштування Vortex"
+
+#: lib/admin/admin.php:103
+msgid "Theme Support"
+msgstr "Підтримка теми"
+
+#: lib/admin/admin.php:113
+msgid "License"
+msgstr "Ліцензія"
+
+#: lib/admin/admin.php:123
+msgid "Changelog"
+msgstr "Зміни в цій версії"
+
+#: lib/admin/admin.php:130
+msgid "For more information:"
+msgstr "Для детальнішої інформації:"
+
+#: lib/admin/admin.php:132
+msgid "Vortex Project"
+msgstr "Проект Vortex"
+
+#: lib/admin/admin.php:135
+msgid "Vortex Official Page"
+msgstr "Офіційна сторінка Vortex"
+
+#: lib/admin/admin.php:164
+msgid "Navigation Style"
+msgstr "Стиль навігації"
+
+#: lib/admin/admin.php:165
+msgid "Menu Position"
+msgstr "Розташування меню"
+
+#: lib/admin/admin.php:166
+msgid "Menu Width"
+msgstr "Ширина меню"
+
+#: lib/admin/admin.php:171
+msgid "Post Style"
+msgstr "Стиль публікації"
+
+#: lib/admin/admin.php:172
+msgid "Post Featured Image"
+msgstr "Головне зображення публікації"
+
+#: lib/admin/admin.php:177
+msgid "Use Copyright"
+msgstr "Включити дані про авторське право"
+
+#: lib/admin/admin.php:178
+msgid "Enter Copyright Text"
+msgstr "Введіть текст про авторське право"
+
+#: lib/admin/admin.php:183
+msgid "Reset Theme Options"
+msgstr "Скинути налаштування теми"
+
+#: lib/admin/admin.php:235
+msgid "yes"
+msgstr "так"
+
+#: lib/admin/admin.php:235
+msgid "no"
+msgstr "ні"
+
+#: lib/admin/admin.php:240
+msgid "Numeric"
+msgstr "Числовий"
+
+#: lib/admin/admin.php:240
+msgid "Older / Newer"
+msgstr "Старіші / новіші"
+
+#: lib/admin/admin.php:245
+msgid "Default (Left)"
+msgstr "За замовчуванням (зліва)"
+
+#: lib/admin/admin.php:245
+msgid "Center"
+msgstr "По центру"
+
+#: lib/admin/admin.php:250
+msgid "Content"
+msgstr "Вміст"
+
+#: lib/admin/admin.php:250
+msgid "Excerpt"
+msgstr "Витяг"
+
+#: lib/admin/admin.php:255
+msgid "Use Featured Image"
+msgstr "Використовувати головне зображення"
+
+#: lib/admin/admin.php:255
+msgid "Use Featured Image Automatically"
+msgstr "Використовувати головне зображення автоматично"
+
+#: lib/admin/admin.php:255
+msgid "No Featured Image"
+msgstr "Без головного зображення"
+
+#: lib/admin/admin.php:310
+msgid "Settings Saved."
+msgstr "Налаштування збережено."
+
+#: lib/admin/admin.php:319
+msgid "Customize your blog by using the following settings."
+msgstr "Налаштуйте вигляд Вашого блоґу за допомогою цих налаштувань."
+
+#: lib/admin/admin.php:336
+msgid "Select navigation style."
+msgstr "Оберіть стиль навігації."
+
+#: lib/admin/admin.php:353
+msgid ""
+"<strong>Center:</strong> You must specify the <em>Menu Width</em> according "
+"to your menu items in order to center it perfectly."
+msgstr ""
+"<strong>По центру:</strong> Потрібно вказати <em>Ширину меню</em> відповідно "
+"до елементів Вашого меню, щоб ідеально його відцентрувати."
+
+#: lib/admin/admin.php:362
+msgid "Enter the menu width to center it perfectly."
+msgstr "Введіть ширину меню, щоб ідеально його відцентрувати."
+
+#: lib/admin/admin.php:363
+msgid "<strong>Valid Range:</strong> 1 - 940"
+msgstr "<strong>Прийнятний діапазон:</strong> 1 - 940"
+
+#: lib/admin/admin.php:370
+msgid "Customize your posts by using the following settings."
+msgstr "Налаштуйте вигляд Ваших публікацій за допомогою цих налаштувань."
+
+#: lib/admin/admin.php:387
+msgid "Select post style."
+msgstr "Оберіть стиль публікації."
+
+#: lib/admin/admin.php:404
+msgid "<strong>Use Featured Image:</strong> which is set in the post."
+msgstr ""
+"<strong>Використовувати головне зображення:</strong> те, що встановлено в "
+"публікації."
+
+#: lib/admin/admin.php:405
+msgid ""
+"<strong>Use Featured Image Automatically:</strong> from the images uploaded "
+"to the post."
+msgstr ""
+"<strong>Використовувати головне зображення автоматично:</strong> серед "
+"зображень, завантажених до публікації."
+
+#: lib/admin/admin.php:406
+msgid "<strong>No Featured Image:</strong> for the post."
+msgstr "<strong>Без головного зображення:</strong> для публікації."
+
+#: lib/admin/admin.php:413
+msgid "Customize your footer by using the following settings."
+msgstr "Налаштуйте вигляд нижньої частини за допомогою цих налаштувань."
+
+#: lib/admin/admin.php:430
+msgid "Select yes to override default copyright text."
+msgstr ""
+"Оберіть \"так\", щоб знехтувати текстом про авторське право, встановленим за "
+"замовчуванням."
+
+#: lib/admin/admin.php:439
+msgid "Enter the copyright text."
+msgstr "Введіть текст про авторське право."
+
+#: lib/admin/admin.php:447
+msgid "Here are the general settings to customize your blog."
+msgstr ""
+"Це - загальні налаштування, що дозволяють змінити вигляд Вашого блоґу. "
+
+#: lib/admin/admin.php:456
+msgid "Reset Theme Options."
+msgstr "Скинути налаштування теми."
+
+#: lib/admin/page.php:9
+#, php-format
+msgid "%1$s Theme Settings"
+msgstr "Налаштування теми %1$s"
+
+#: lib/admin/page.php:16 lib/admin/page.php:55
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: lib/admin/page.php:24
+msgid "Blog Settings"
+msgstr "Налаштування блоґу"
+
+#: lib/admin/page.php:25
+msgid "Post Settings"
+msgstr "Налаштування публікацій"
+
+#: lib/admin/page.php:26
+msgid "Footer Settings"
+msgstr "Налаштування нижньої частини"
+
+#: lib/admin/page.php:27
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: lib/functions/custom-header.php:25
+msgid "Vortex"
+msgstr "Vortex"
+
+#: lib/functions/menus.php:9
+msgid "Vortex Primary Menu"
+msgstr "Первинне меню Vortex"
+
+#: lib/functions/sidebars.php:40
+msgid "Vortex Primary Sidebar"
+msgstr "Первинний сайдбар Vortex"
+
+#: lib/functions/sidebars.php:42
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr ""
+"Головний (первинний) регіон для віджетів, здебільшого використовуваний як "
+"сайдбар."
+
+#: lib/functions/utility.php:16
+msgid "Featured"
+msgstr "Прикріплене"
+
+#: lib/functions/utility.php:37
+#, php-format
+msgid "by %2$s"
+msgstr "автор %2$s"
+
+#: lib/functions/utility.php:48 lib/functions/utility.php:50
+#: lib/functions/utility.php:347 lib/functions/utility.php:376
+msgid "Edit"
+msgstr "Редагувати"
+
+#: lib/functions/utility.php:66
+msgid "Leave a Comment"
+msgstr "Прокоментувати"
+
+#: lib/functions/utility.php:66
+msgid "1 Comment"
+msgstr "1 коментар"
+
+#: lib/functions/utility.php:66
+msgid "% Comments"
+msgstr "% коментарів"
+
+#: lib/functions/utility.php:83
+msgid "Posted in:"
+msgstr "Опубліковано в:"
+
+#: lib/functions/utility.php:95
+msgid "Tagged:"
+msgstr "Теґи:"
+
+#: lib/functions/utility.php:107
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: lib/functions/utility.php:185 lib/functions/utility.php:208
+#: lib/functions/utility.php:235 lib/functions/utility.php:251
+msgid "Post Navigation"
+msgstr "Навігація по публікаціях"
+
+#: lib/functions/utility.php:196
+msgid "Older Posts"
+msgstr "Старіші публікації"
+
+#: lib/functions/utility.php:200
+msgid "Newer Posts"
+msgstr "Новіші публікації"
+
+#: lib/functions/utility.php:223
+msgid "Previous Post"
+msgstr "Попередня публікація"
+
+#: lib/functions/utility.php:227
+msgid "Next Post"
+msgstr "Наступна публікація"
+
+#: lib/functions/utility.php:252
+msgid "&larr; Return to"
+msgstr "&larr; Повернутися до"
+
+#: lib/functions/utility.php:273
+msgid "Attachment Navigation"
+msgstr "Навігація по вкладеннях"
+
+#: lib/functions/utility.php:297
+#, php-format
+msgid "About %s"
+msgstr "Про %s"
+
+#: lib/functions/utility.php:300
+#, php-format
+msgid "View all posts by %s"
+msgstr "Переглянути всі публікації автора %s"
+
+#: lib/functions/utility.php:333
+#, php-format
+msgid "%s Theme by"
+msgstr "Тема %s створена"
+
+#: lib/functions/utility.php:347
+msgid "Pingback:"
+msgstr "Пінґбек:"
+
+#: lib/functions/utility.php:372
+msgid "said:"
+msgstr "сказав:"
+
+#: lib/functions/utility.php:381
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує на модерацію."
+
+#: lib/functions/utility.php:391
+msgid "Reply"
+msgstr "Відповісти"
+
+#: lib/functions/utility.php:496 lib/functions/utility.php:501
+msgid "Read More &rarr;"
+msgstr "Читати Далі &rarr;"
